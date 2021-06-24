@@ -1,0 +1,9 @@
+html, body {
+  margin: 10px;
+  padding: 10px;
+}
+canvas {
+  display: block;
+  border-style:dotted;
+  border-color:blue;
+}
